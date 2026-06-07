@@ -16,6 +16,10 @@ Currently building **[Your Project Name]** — a high-performance alternative to
 
 I write about system design and Rust internals at **[your-blog.com](https://your-blog.com)**.
 
+
+![Metrics](/github-metrics.svg)
+
+
 <br>
 
 ![ZHOUcourier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZHOUcourier)
@@ -43,9 +47,6 @@ I write about system design and Rust internals at **[your-blog.com](https://your
 
 </td>
 <td width="40%" valign="top">
-
-
-![Metrics](/github-metrics.svg)
 
           
 ### METRICS
