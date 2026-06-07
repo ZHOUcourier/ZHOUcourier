@@ -18,6 +18,7 @@ I write about system design and Rust internals at **[your-blog.com](https://your
 
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 
 <br>
@@ -53,12 +54,12 @@ I write about system design and Rust internals at **[your-blog.com](https://your
 
 <!-- 替换 username 为你的GitHub用户名 -->
 <!-- theme=transparent 去除卡片背景，与GitHub深色模式无缝融合 -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZHOUcourier&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" />
 
 <br>
 
 <!-- WakaTime 编码统计 -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZHOUcourier&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%" />
 
 <br>
 
