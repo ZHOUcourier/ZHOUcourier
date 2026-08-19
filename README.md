@@ -10,7 +10,7 @@
 
 | Project | Description / 简介 | Stack |
 |---------|-----------|-------|
-| **[FinLoom-server](https://github.com/ZHOUcourier/FinLoom-server)** | FIN-R1 驱动的自适应量化投资引擎 · FIN-R1 Empowered Adaptive Quantitative Investment Engine | Python |
+| **[LocalQuant](https://github.com/ZHOUcourier/localquant)** | 本地量化投研平台 · Local Quantitative Investment Platform | Python |
 | **[quant_for_contest2505](https://github.com/ZHOUcourier/quant_for_contest2505)** | 同花顺 SuperMind 量化策略的数据预处理方案 · Streamlined data preprocessing for Tonghuashun SuperMind quant strategies | Python |
 | **[Bayesian-Time-Series-Analysis-Econometrics](https://github.com/ZHOUcourier/Bayesian-Time-Series-Analysis-Econometrics)** | 贝叶斯时间序列分析在经济计量中的应用 | MATLAB |
 | **[Matlab-RBC-ISLMFE](https://github.com/ZHOUcourier/Matlab-RBC-ISLMFE)** | 用 MATLAB 实现的基础金融与宏观经济知识（RBC、IS-LM-FE 模型） | MATLAB |
