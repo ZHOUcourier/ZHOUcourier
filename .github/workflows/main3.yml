@@ -22,7 +22,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytesize
           config_timezone: Asia/Shanghai
-      - uses: lowlighter/metrics@a53a5853a99509233cdef4b056411facc481b833
+      # 上游 achievements 插件在 GitHub 废弃 Projects (classic) 后报错，
+      # 使用社区修复版 fork（已固定 commit）：stalomeow/metrics@projects-v2
+      - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
