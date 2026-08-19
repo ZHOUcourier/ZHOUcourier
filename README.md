@@ -2,10 +2,6 @@
 
 # Hi, I'm Zhuoli Zhou / 周卓立
 
-**浙江工商大学 · 金融学** | Zhejiang Gongshang University, Finance
-
-量化金融 · 宏观经济 · 计量经济学 | Quantitative Finance · Macroeconomics · Econometrics
-
 </div>
 
 ---
