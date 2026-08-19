@@ -1,8 +1,8 @@
 <!-- 
   设计说明：
-  - 深色 GitHub 风格：背景 #0d1117，文字 #c9d1d9，强调色 #58a6ff
-  - 全宽卡片 + 居中布局，图片宽度统一
-  - 本文件仅调整呈现，正文文本未改动
+  - GitHub 深色风格：背景 #0d1117，文字 #c9d1d9，强调色 #58a6ff
+  - 所有统计图均为仓库内置 SVG（Actions 自动生成），国内网络环境可正常加载
+  - 布局：左项目 / 右统计双栏 + 全宽贡献日历 + 语言/成就卡片
 -->
 
 <div align="center">
@@ -33,11 +33,7 @@
 
 ### METRICS / 数据
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZHOUcourier&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZHOUcourier&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="100%" />
+<img src="/github-metrics.svg" width="100%" alt="Metrics" />
 
 </td>
 </tr>
@@ -45,15 +41,30 @@
 
 <br>
 
+### CALENDAR / 贡献日历
+
 <div align="center">
-
-<img src="/github-metrics.svg" width="100%" alt="Metrics" />
-
-<br>
 
 <img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="Full-year calendar" />
 
 </div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="/metrics.plugin.languages.svg" width="100%" alt="Languages" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="/metrics.plugin.achievements.svg" width="100%" alt="Achievements" />
+
+</td>
+</tr>
+</table>
 
 ---
 
