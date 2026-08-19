@@ -1,86 +1,64 @@
-<!-- 
-  设计说明：
-  - 使用 HTML table 实现精确的双栏布局
-  - 所有图片链接均添加了 align 和 width 属性控制排版
-  - 颜色体系建议：背景 #0d1117, 文字 #c9d1d9, 强调色 #58a6ff
--->
+<div align="center">
 
-<table>
-<tr>
-<td width="60%" valign="top">
+# Hi, I'm Zhuoli Zhou / 周卓立
 
-### ABOUT
+**浙江工商大学 · 金融学** | Zhejiang Gongshang University, Finance
 
-Full-stack engineer focused on distributed systems and developer tooling. 
-Currently building **[Your Project Name]** — a high-performance alternative to [X].
+量化金融 · 宏观经济 · 计量经济学 | Quantitative Finance · Macroeconomics · Econometrics
 
-I write about system design and Rust internals at **[your-blog.com](https://your-blog.com)**.
+</div>
 
+---
+
+### ABOUT / 关于我
+
+**中文**
+
+我是浙江工商大学金融学专业的学生，主要兴趣集中在量化投资、宏观经济分析和计量经济学。喜欢用 Python、MATLAB 和 LaTeX 把金融与经济学里的想法变成可复现的代码和文档。
+
+**English**
+
+Finance student at Zhejiang Gongshang University. I'm interested in quantitative investing, macroeconomics and econometrics, and I enjoy turning ideas in finance and economics into reproducible code and documents with Python, MATLAB and LaTeX.
+
+---
+
+### SELECTED WORK / 主要项目
+
+| Project | Description / 简介 | Stack |
+|---------|-----------|-------|
+| **[FinLoom-server](https://github.com/ZHOUcourier/FinLoom-server)** | FIN-R1 驱动的自适应量化投资引擎 · FIN-R1 Empowered Adaptive Quantitative Investment Engine | Python |
+| **[quant_for_contest2505](https://github.com/ZHOUcourier/quant_for_contest2505)** | 同花顺 SuperMind 量化策略的数据预处理方案 · Streamlined data preprocessing for Tonghuashun SuperMind quant strategies | Python |
+| **[Bayesian-Time-Series-Analysis-Econometrics](https://github.com/ZHOUcourier/Bayesian-Time-Series-Analysis-Econometrics)** | 贝叶斯时间序列分析在经济计量中的应用 | MATLAB |
+| **[Matlab-RBC-ISLMFE](https://github.com/ZHOUcourier/Matlab-RBC-ISLMFE)** | 用 MATLAB 实现的基础金融与宏观经济知识（RBC、IS-LM-FE 模型） | MATLAB |
+| **[ZHOUcourier.github.io](https://github.com/ZHOUcourier/ZHOUcourier.github.io)** | 个人主页 · My personal pages | HTML |
+| **[python-notes](https://github.com/ZHOUcourier/python-notes)** | Python 学习笔记 · Personal Python study notes | Jupyter |
+
+---
+
+### METRICS / 数据
+
+![ZHOUcourier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZHOUcourier&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHOUcourier&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9)
 
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
+---
 
-<br>
+### STACK / 技术栈
 
-![ZHOUcourier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZHOUcourier)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHOUcourier)
-
-
-### RECENT WRITING
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Zero-Copy Deserialization in Rust](https://your-blog.com/post-1)
-- [Why We Migrated from Kubernetes to Nomad](https://your-blog.com/post-2)
-- [Building a Lock-Free Queue from Scratch](https://your-blog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-### SELECTED WORK
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[project-alpha](https://github.com/you/project-alpha)** | Distributed task scheduler with exactly-once semantics | Go, etcd, gRPC |
-| **[project-beta](https://github.com/you/project-beta)** | CLI tool for database schema migration validation | Rust, PostgreSQL |
-| **[project-gamma](https://github.com/you/project-gamma)** | Real-time collaborative editing CRDT library | TypeScript, WebRTC |
-
-</td>
-<td width="40%" valign="top">
-
-          
-### METRICS
-
-<!-- 替换 username 为你的GitHub用户名 -->
-<!-- theme=transparent 去除卡片背景，与GitHub深色模式无缝融合 -->
-<img src="https://github-readme-stats.vercel.app/api?username=ZHOUcourier&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" />
-
-<br>
-
-<!-- WakaTime 编码统计 -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZHOUcourier&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%" />
-
-<br>
-
-### STACK
-
-<!-- 使用 shields.io 统一风格，避免彩色图标带来的视觉噪音 -->
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-<br>
+---
 
-### CONNECT
+### CONNECT / 联系
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/you)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/you)
-
-</td>
-</tr>
-</table>
+- 个人主页 · Personal site: [ZHOUcourier.github.io](https://ZHOUcourier.github.io)
+- 欢迎交流量化投资、宏观经济与计量经济学相关话题
+- Feel free to reach out about quantitative finance, macroeconomics and econometrics
