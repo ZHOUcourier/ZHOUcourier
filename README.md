@@ -1,7 +1,7 @@
 <!-- 
   设计说明：
   - GitHub 深色风格：背景 #0d1117，文字 #c9d1d9，强调色 #58a6ff
-  - 双栏用固定像素宽度 td 实现（百分比宽度在 GitHub 上会塌陷）
+  - 并排卡片用同一行内联图片实现（HTML table 在 GitHub 上会塌陷，不可靠）
   - 统计图为仓库内置 SVG（Actions 自动生成），国内网络可正常加载
 -->
 
@@ -11,11 +11,7 @@
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="520" valign="top">
+---
 
 ### SELECTED WORK / 主要项目
 
@@ -28,18 +24,18 @@
 | **[ZHOUcourier.github.io](https://github.com/ZHOUcourier/ZHOUcourier.github.io)** | 个人主页 · My personal pages | HTML |
 | **[python-notes](https://github.com/ZHOUcourier/python-notes)** | Python 学习笔记 · Personal Python study notes | Jupyter |
 
-</td>
-<td width="310" valign="top">
+---
 
 ### METRICS / 数据
 
-<img src="/github-metrics.svg" width="300" alt="Metrics" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="/github-metrics.svg" width="48%" alt="Metrics" />
+<img src="/metrics.plugin.languages.svg" width="48%" alt="Languages" />
 
-<br>
+</div>
+
+---
 
 ### CALENDAR / 贡献日历
 
@@ -49,12 +45,13 @@
 
 </div>
 
-<br>
+---
+
+### ACHIEVEMENTS / 成就
 
 <div align="center">
 
-<img src="/metrics.plugin.languages.svg" width="45%" alt="Languages" />
-<img src="/metrics.plugin.achievements.svg" width="45%" alt="Achievements" />
+<img src="/metrics.plugin.achievements.svg" width="60%" alt="Achievements" />
 
 </div>
 
