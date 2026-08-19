@@ -1,20 +1,8 @@
 <div align="center">
 
-# Hi, I'm Zhuoli Zhou / 周卓立
+# Hi, I'm Alpherg Zhou
 
 </div>
-
----
-
-### ABOUT / 关于我
-
-**中文**
-
-我是浙江工商大学金融学专业的学生，主要兴趣集中在量化投资、宏观经济分析和计量经济学。喜欢用 Python、MATLAB 和 LaTeX 把金融与经济学里的想法变成可复现的代码和文档。
-
-**English**
-
-Finance student at Zhejiang Gongshang University. I'm interested in quantitative investing, macroeconomics and econometrics, and I enjoy turning ideas in finance and economics into reproducible code and documents with Python, MATLAB and LaTeX.
 
 ---
 
