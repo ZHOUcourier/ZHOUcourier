@@ -37,25 +37,20 @@
 
 ---
 
+<table>
+<tr>
+<td width="470" valign="top">
+
 ### CALENDAR / 贡献日历
 
-<div align="center">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" width="450" alt="Full-year calendar" />
 
-<img src="/metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="Full-year calendar" />
-
-</div>
-
----
+</td>
+<td width="360" valign="top">
 
 ### ACHIEVEMENTS / 成就
 
-<div align="center">
-
-<img src="/metrics.plugin.achievements.svg" width="60%" alt="Achievements" />
-
-</div>
-
----
+<img src="/metrics.plugin.achievements.svg" width="340" alt="Achievements" />
 
 ### STACK / 技术栈
 
@@ -65,11 +60,13 @@
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@a53a5853a99509233cdef4b056411facc481b833
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,7 +22,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytesize
           config_timezone: Asia/Shanghai
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@a53a5853a99509233cdef4b056411facc481b833
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
