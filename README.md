@@ -82,6 +82,5 @@
 
 <p align="center">
   个人主页 · Personal site: <a href="https://ZHOUcourier.github.io">ZHOUcourier.github.io</a><br>
-  欢迎交流量化投资、宏观经济与计量经济学相关话题<br>
-  Feel free to reach out about quantitative finance, macroeconomics and econometrics
+   <br>
 </p>
