@@ -82,5 +82,5 @@
 
 <p align="center">
   个人主页 · Personal site: <a href="https://ZHOUcourier.github.io">ZHOUcourier.github.io</a><br>
-   <br>
+  alpherg_zhou@foxmail.com <br>
 </p>
